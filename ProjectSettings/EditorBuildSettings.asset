@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Distance Grab + Normal Grab.unity
     guid: d6b27a083f75c3740b642f5664fa374c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Teleportation.unity
     guid: f189645ab951eac44b05e5fa10003e8b
+  - enabled: 0
+    path: Assets/Scenes/Push Button Trigger.unity
+    guid: 92dcbdf3f57d23c4d826c1192e841ea8
+  - enabled: 1
+    path: Assets/Scenes/Button Trigger.unity
+    guid: be2542eb171a89d4f8702470c0f61d37
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 28e8ad3644e1b2a44874d9c809eff99c,
       type: 2}
